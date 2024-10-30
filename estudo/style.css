@@ -1,0 +1,33 @@
+/* style.css */
+.caixa {
+    background-color: lightgreen;
+    padding: 20px;
+    border: 2px solid green;
+  }
+
+  header ul {
+    list-style-type: none;
+  }
+ 
+  .inicio {
+background-color: gold;
+padding: 20px;
+border: 2px solid gray;
+font-style: oblique;
+
+  }
+
+  .cachorrito {
+background-color: rgb(0, 0, 0);
+padding: 10px;
+border-color: blanchedalmond;
+border: 1px solid aqua;
+
+
+
+  }
+
+  html.dark {
+    --background-color: #0d1117;
+    --text-color: #F7F8F8;
+  }
